@@ -1,2 +1,2 @@
-# SCAMP-assessment
+# SCAMP-Assessment
 The Fibonacci sequence
