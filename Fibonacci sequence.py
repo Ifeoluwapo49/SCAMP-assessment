@@ -1,6 +1,6 @@
 '''
-The fibonacci sequence is a series of numbers created by /
-adding the previous two numbers to form the next number in /
+The fibonacci sequence is a series of numbers created by 
+adding the previous two numbers to form the next number in 
 the series. 0 and 1 are the first numbers in the series.
 '''
 def fibonacci_sequence(num):
